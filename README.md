@@ -89,11 +89,9 @@ http://127.0.0.1:7860
 
 ---
 
-## License
+## Demos Version
 
-Specify the license of the project here (e.g., MIT, Apache 2.0, etc.). If unsure, you can state:
-"This project is licensed under the terms of [license name]."
-
+- [🤗](https://huggingface.co/spaces/louay000000007/virtual-try-on-diffusion-vton-d1)
 ---
 
-Feel free to modify the instructions or add additional details to tailor it further to your needs.
+This project is a personal one 
