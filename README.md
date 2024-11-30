@@ -28,8 +28,8 @@ Virtual Try-On Diffusion [VTON-D] by Dressify is a custom diffusion-based pipeli
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/Louay0007/Virtual-Try-On-Dressify.git
+cd Virtual-Try-On-Dressify
 ```
 
 ### 2. Create a Virtual Environment
