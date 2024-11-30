@@ -27,12 +27,16 @@ tasks.
    ```bash
    git clone <repository-url>
    cd <repository-folder>
-Create a virtual environment:
-
-bash
-Copy code
-python -m venv venv
-Activate the virtual environment:
+2. **Create a virtual environment**:
+   ```bash
+    python -m venv venv
+3. **Activate the virtual environment**:
+   Windows:
+   ```bash
+    venv\Scripts\activate
+    macOS/Linux:
+   ```bash
+    source venv/bin/activate
 
 Windows:
 bash
