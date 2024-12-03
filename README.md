@@ -91,7 +91,7 @@ http://127.0.0.1:7860
 
 ## Demos Version
 
-- [🤗](https://huggingface.co/spaces/louay000000007/virtual-try-on-diffusion-vton-d1)
+- [🤗](https://huggingface.co/spaces/Louu007/ISSATM-VTO)
 ---
 
 This project is a personal one 
