@@ -14,7 +14,7 @@ LOG_DATE_FORMAT = "%Y-%m-%d %H:%M:%S"
 EXAMPLE_PATH = os.path.join(os.path.dirname(__file__), "examples")
 
 API_URL = os.getenv("TRY_ON_DIFFUSION_DEMO_API_URL", "https://try-on-diffusion.p.rapidapi.com")
-API_KEY = os.getenv("TRY_ON_DIFFUSION_DEMO_API_KEY", "03091ae62dmshaa55f22b00f2595p1e5a39jsnc9cae7b7e2ac")
+API_KEY = os.getenv("TRY_ON_DIFFUSION_DEMO_API_KEY", "86113fc065msh1c23b18c617356fp134dbfjsn7f9977529893")
 
 SHOW_RAPIDAPI_LINK = os.getenv("TRY_ON_DIFFUSION_DEMO_SHOW_RAPIDAPI_LINK", "1") == "1"
 
