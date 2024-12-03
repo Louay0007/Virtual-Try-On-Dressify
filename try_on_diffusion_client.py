@@ -19,7 +19,7 @@ class TryOnDiffusionAPIResponse:
 
 
 class TryOnDiffusionClient:
-    def __init__(self, base_url: str = "https://try-on-diffusion.p.rapidapi.com", api_key: str = "03091ae62dmshaa55f22b00f2595p1e5a39jsnc9cae7b7e2ac"):
+    def __init__(self, base_url: str = "https://try-on-diffusion.p.rapidapi.com", api_key: str = "86113fc065msh1c23b18c617356fp134dbfjsn7f9977529893"):
         self._logger = logging.getLogger("try_on_diffusion_client")
         self._base_url = base_url
         self._api_key = api_key
